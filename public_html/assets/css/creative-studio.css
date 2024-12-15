@@ -11981,3 +11981,7 @@ section .section-title {
     display: none;
   }
 }
+
+.fenetre {
+  padding-top: 10%;
+}
